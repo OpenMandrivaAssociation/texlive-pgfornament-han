@@ -1,6 +1,6 @@
 Name:		texlive-pgfornament-han
-Version:	54191
-Release:	2
+Version:	68704
+Release:	1
 Summary:	pgfornament library for Chinese traditional motifs and patterns
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pgfornament-han
